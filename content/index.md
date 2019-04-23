@@ -3,8 +3,7 @@ title: "Wilsons Me-sida"
 ---
 Min me-sida i kursen oophp
 =========================
-
-Tjena!
+Hejsan!
 
 William heter jag, är 28 år gammal och är inne på andra terminen i webbprogramering.
 
